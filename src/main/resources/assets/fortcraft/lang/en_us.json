@@ -1,5 +1,8 @@
 {
   "item.fortcraft.bismuth": "Bismuth",
-  "item.fortcraft.raw_bismuth": "Raw Bismuth"
+  "item.fortcraft.raw_bismuth": "Raw Bismuth",
+  "item.fortcraft.slurp_berries": "Slurp Berries",
 
+  "block.fortcraft.bismuth_block":"Block of Bismuth",
+  "block.fortcraft.bismuth_ore": "Bismuth Ore"
 }

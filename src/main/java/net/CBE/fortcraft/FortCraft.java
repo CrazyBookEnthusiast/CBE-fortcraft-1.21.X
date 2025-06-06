@@ -1,5 +1,6 @@
 package net.CBE.fortcraft;
 
+import net.CBE.fortcraft.block.ModBlocks;
 import net.CBE.fortcraft.item.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
 import org.slf4j.Logger;
@@ -38,6 +39,7 @@ public class FortCraft
         NeoForge.EVENT_BUS.register(this);
 
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
 
         // Register the item to a creative tab
@@ -57,8 +59,8 @@ public class FortCraft
             event.accept(ModItems.BISMUTH);
             event.accept(ModItems.RAW_BISMUTH);
         }
-        if(event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS){
-
+        if(event.getTabKey() == CreativeModeTabs.FOOD_AND_DRINKS){
+            event.accept(ModItems.SLURP_BERRIES);
         }
     }
 

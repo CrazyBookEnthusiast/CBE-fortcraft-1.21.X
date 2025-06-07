@@ -4,5 +4,8 @@
   "item.fortcraft.slurp_berries": "Slurp Berries",
 
   "block.fortcraft.bismuth_block":"Block of Bismuth",
-  "block.fortcraft.bismuth_ore": "Bismuth Ore"
+  "block.fortcraft.bismuth_ore": "Bismuth Ore",
+
+  "creativetab.fortcraft_resources": "FortCraft Resources",
+  "creativetab.fortcraft_consumables": "FortCraft Consumables"
 }

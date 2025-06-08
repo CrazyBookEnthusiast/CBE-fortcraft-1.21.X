@@ -5,6 +5,8 @@
 
   "block.fortcraft.bismuth_block":"Block of Bismuth",
   "block.fortcraft.bismuth_ore": "Bismuth Ore",
+  "block.fortcraft.bismuth_deepslate_ore": "Deepslate Bismuth Ore",
+  "block.fortcraft.slurp_berry_bush": "Slurp Berry Bush",
 
   "creativetab.fortcraft_resources": "FortCraft Resources",
   "creativetab.fortcraft_consumables": "FortCraft Consumables"

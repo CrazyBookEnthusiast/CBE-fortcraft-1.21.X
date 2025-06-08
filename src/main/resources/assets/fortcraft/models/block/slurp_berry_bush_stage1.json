@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "fortcraft:block/slurp_berry_bush_stage1"
+  }
+}

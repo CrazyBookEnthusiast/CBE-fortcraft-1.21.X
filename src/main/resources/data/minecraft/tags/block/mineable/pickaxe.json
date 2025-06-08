@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "fortcraft:bismuth_block",
+    "fortcraft:bismuth_ore",
+    "fortcraft:bismuth_deepslate_ore"
+  ]
+}

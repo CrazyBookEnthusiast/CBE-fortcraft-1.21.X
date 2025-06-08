@@ -9,5 +9,7 @@
   "block.fortcraft.slurp_berry_bush": "Slurp Berry Bush",
 
   "creativetab.fortcraft_resources": "FortCraft Resources",
-  "creativetab.fortcraft_consumables": "FortCraft Consumables"
+  "creativetab.fortcraft_consumables": "FortCraft Consumables",
+
+  "tooltip.fortcraft.slurp_berries": "Try putting it in a bottle and aging it."
 }
